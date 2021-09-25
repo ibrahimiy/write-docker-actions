@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-  fmt.Pringln("Hello Docker Actions")
+  fmt.Println("Hello Docker Actions")
 }
