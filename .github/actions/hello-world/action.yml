@@ -20,6 +20,3 @@ input:
 runs:
   using: "docker"
   image: "Dockerfile"
-  args:
-  - ${{ inputs.firstGreeting }}
-  - ${{ inputs.secondGreeting }}
