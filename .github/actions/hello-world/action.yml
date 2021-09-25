@@ -9,7 +9,7 @@ input:
     default: "Hubot"
     
   secondGreeting:
-    description: "another person to greet"
+    description: "another persone to greet"
     required: true
     default: "Mona the Octocat"
     
