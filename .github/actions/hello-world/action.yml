@@ -1,18 +1,18 @@
-nam: "my hello action"
+name: "my hello action"
 
 description: "say hello with GitHub Actions"
 
-input:
+inputs:
   firstGreeting:
     description: "who would you like to greet in the console"
     required: true
     default: "Hubot"
-    
+
   secondGreeting:
-    description: "another persone to greet"
+    description: "another person to greet"
     required: true
     default: "Mona the Octocat"
-    
+
   thirdGreeting:
     description: "a third greeting"
     required: false
